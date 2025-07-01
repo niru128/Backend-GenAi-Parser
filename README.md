@@ -1,4 +1,4 @@
-# Saathi Backend Internship – Final Assignment
+![Screenshot 2025-07-01 092824](https://github.com/user-attachments/assets/3baca4e6-0337-42d7-8149-3159da8c71e9)# Saathi Backend Internship – Final Assignment
 
 ## Overview
 
@@ -21,11 +21,7 @@ This repository contains both tasks required for the Saathi.ai Backend Internshi
 - **Endpoint**: 
   - `POST /parse-query`: Accepts free-text and returns structured visa data
 
-## Running Instructions
+### Screen shots
 
-### 1. Backend (Node.js)
-
-```bash
-cd backend
-npm install
-npm start
+![Screenshot 2025-07-01 092838](https://github.com/user-attachments/assets/960b2ef0-7261-4368-af93-c21e9f922c07)
+![Screenshot 2025-07-01 092824](https://github.com/user-attachments/assets/23e71d33-aa03-4ef2-992e-29db9e2e13fb)
